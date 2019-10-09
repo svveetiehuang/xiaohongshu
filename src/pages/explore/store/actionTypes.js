@@ -1,0 +1,5 @@
+export const SHOW_DOWNLOAD = 'explore/SHOW_DOWNLOAD'
+export const CLOSE_DOWNLOAD = 'explore/CLOSE_DOWNLOAD'
+export const SHOW_BIG = 'explore/SHOW_BIG'
+export const HIDDEN_BIG = 'explore/HIDDEN_BIG'
+export const CHANGE_STORE_NOTE = 'explore/CHANGE_STORE_NOTE'

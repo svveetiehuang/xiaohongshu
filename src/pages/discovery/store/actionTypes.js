@@ -1,0 +1,6 @@
+export const CHANGE_STORE_DATA = 'discovery/CHANGE_STORE_DATA'
+export const CHANGE_CURRENT_ID = 'discovery/CHANGE_CURRENT_ID'
+export const NEXT_PIC = 'discovery/NEXT_PIC'
+export const LAST_PIC = 'discovery/LAST_PIC'
+export const SMALL_PIC_CLICK = 'discovery/SMALL_PIC_CLICK'
+export const TOGGLE_SHARE_BAR_FIXED = 'discovery/TOGGLE_SHARE_BAR_FIXED'

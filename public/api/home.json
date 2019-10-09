@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "data": {
+    "background": {
+      "videoUrl": "https://dc.xhscdn.com/9379abe0-7ad8-11e9-8794-9320f6c9d557/%E8%83%8C%E6%99%AF%E8%A7%86%E9%A2%91.mp4",
+      "poster": "//ci.xiaohongshu.com/9e244c50-108b-41df-b649-537f318124a9"
+    },
+    "iPhone": {
+      "videoUrl": "https://dc.xhscdn.com/a10d0710-80f1-11e9-9036-5948d2131083/new5.27.mp4",
+      "poster": "//ci.xiaohongshu.com/700a0de6-c9ee-4c1c-8e02-94e948d9f611",
+      "iPhoneCase": "//ci.xiaohongshu.com/3ca6607e-d4a5-4cb9-b455-a746713d8283"
+    },
+    "qrCode": {
+      "ios": "//ci.xiaohongshu.com/8aa9236a-43ef-44f0-97d3-3167847de82a@r_640w_640h.jpg",
+      "android": "//ci.xiaohongshu.com/8aa9236a-43ef-44f0-97d3-3167847de82a@r_640w_640h.jpg"
+    }
+  }
+}
