@@ -17,10 +17,10 @@ import Footer from '../../common/footer'
 class Discovery extends PureComponent {
   render () {
     return (
-      <div className='pc-wrapper'>
-        {/* 向 Header 传入深浅主题、头部当前所选标签、当前页面的 url */}
-        <Header theme='light' tab='community' url={this.props.match.url} />
-        <DocumentTitle title={this.props.title}>
+      <DocumentTitle title={this.props.title}>
+        <div className='pc-wrapper'>
+          {/* 向 Header 传入深浅主题、头部当前所选标签、当前页面的 url */}
+          <Header theme='light' tab='community' url={this.props.match.url} />
           <CardWrapper>
             <LeftCard>
               <NoteImg />
@@ -34,10 +34,10 @@ class Discovery extends PureComponent {
               <RelatedNotes />
             </RightCard>
           </CardWrapper>
-        </DocumentTitle>
-        <QrCode />
-        <Footer theme='light' />
-      </div>
+          <QrCode />
+          <Footer theme='light' />
+        </div>
+      </DocumentTitle>
     )
   }
 
